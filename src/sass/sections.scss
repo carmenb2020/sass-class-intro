@@ -1,0 +1,14 @@
+@use 'mixinproc';
+@import 'variables';
+
+main{
+    color: $TextColorOne;
+    #section-two{
+        color: $TextColorOne;
+        @include mixinproc.crear-flexbox(space-evenly);
+    }
+    #section-three{
+        color: $TextColortwo;
+        @include mixinproc.crear-flexbox(center);
+    }
+}

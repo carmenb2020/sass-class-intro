@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../src/sass/sections.scss","../../src/sass/_variables.scss","../../src/sass/_mixinproc.scss","../../src/sass/styles.scss"],"names":[],"mappings":"AAGA;EACI,OCFW;;ADGX;EACI,OCJO;ECDX;EACA;EACA,iBFIqC;;AAErC;EACI,OCPO;ECFX;EACA;EACA,iBFQqC;;;AGPzC;EACI,kBFLc;;AEOd;EACI,OFPK;EEQL;;AACA;EACI;EACA;EDXR;EACA;EACA,iBCUyC","file":"styles.css"}

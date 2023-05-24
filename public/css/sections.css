@@ -1,0 +1,17 @@
+main {
+  color: darkorchid;
+}
+main #section-two {
+  color: darkorchid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+main #section-three {
+  color: green;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+/*# sourceMappingURL=sections.css.map */
